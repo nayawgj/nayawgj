@@ -8,7 +8,7 @@
 💚 Ewha Womans University <br/>
 ✅ Major: Cyber Security<br/>
 💙 EVI$ION 3rd & 4th member<br/>
-🖤 UMC 4th Server<br/>
+🖤 UMC Ewha 4th Server & 5th Server Leader<br/>
 
 <div align="center">
 💫github stats💫
