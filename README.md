@@ -11,20 +11,22 @@
 🖤 UMC Ewha 4th Server & 5th Server Leader<br/>
 
 <div align="center">
-💫github stats💫
+💫github stats
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayawgj&show_icons=true&theme=radical)
 
 </div>
 
 <br/>
-- I'm a student from Ewha, interested in Computer Science and Security.<br/>
-- My major is Cyber Security though, so I keep studying and learning how to make applications or websites.<br/>
-- Moreover, I'm always open minded for any fields of CS, (like ML, Blockchain, Cloud Computing, etc..)<br/>
-- Feel free to contact me!<br/>
+Hi there 👋<br/>
+💬 I'm a student at Ewha Womans University in South Korea, with a strong interest in computer science and security.<br/><br/>
+
+- Although my major is cybersecurity, I actively explore other fields of CS such as machine learning, blockchain, and cloud computing.<br/>
+- I'm also learning how to build applications and websites as part of my ongoing development.<br/>
+- I'm always open to new ideas and opportunities — feel free to reach out!<br/>
   
 ---------
-- 💬 My personal insta: @Oolong_01
+- If you want to see my portfolio, you can find it here: https://fast-temple-163.notion.site/209c511509d0804bbe06f53a2c60c56e (korean)
 - 💌 Email: nayawgj@gmail.com
 
 
